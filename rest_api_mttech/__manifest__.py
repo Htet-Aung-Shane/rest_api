@@ -20,7 +20,7 @@
 #
 #############################################################################
 {
-    "name": "Odoo rest API",
+    "name": "Odoo rest API By MT Tech",
     "version": "18.0.1.0.0",
     "category": "Tools",
     "summary": """This app helps to interact with odoo, backend with help of 
